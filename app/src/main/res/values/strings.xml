@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateTime</string>
+    <string name="set_time">Set Date</string>
+    <string name="date_is">Date is</string>
+    <string name="day">Day</string>
+    <string name="expired">Expired</string>
+</resources>
